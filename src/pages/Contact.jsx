@@ -26,7 +26,7 @@ function Contact() {
               <br />
               Ashta, Dist. Sangli,
               <br />
-              Maharashtra - 416 301
+              Maharashtra - 102 102
             </p>
           </div>
 
