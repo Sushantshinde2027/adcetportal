@@ -18,11 +18,13 @@ try {
 const { default: handler } = await import("../api/ask.js");
 
 const defaultQuestions = [
-  "What are the working hours of the clinic?",
-  "Who are the doctors and what are their specializations?",
-  "How does root canal treatment work and how long does it take?",
-  "Where is the clinic located?",
-  "How much do braces cost?", // not in KB -> should decline
+  "What courses does ADCET offer?",
+  "What is the admission process for 2026-27?",
+  "Where is ADCET located?",
+  "Is ADCET an autonomous institute and is it NAAC accredited?",
+  "Does ADCET provide placement assistance?",
+  "Who is the HOD of the Computer Science department?",
+  "What is the B.Tech tuition fee?", // not in KB -> should decline
 ];
 
 const questions = process.argv.slice(2).length
@@ -55,7 +57,7 @@ for (const question of questions) {
   if (out.sources && out.sources.length) {
     console.log(
       "Sources: " +
-        out.sources.map((s) => `${s.title} (${s.score.toFixed(3)})`).join(" | ")
+        out.sources.map((s) => `${s.chunk_id} (${s.score.toFixed(3)})`).join(" | ")
     );
   }
   console.log("");

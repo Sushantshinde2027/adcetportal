@@ -1,571 +1,1391 @@
-![Modern Dental Clinic](https://images.unsplash.com/photo-1629909613654-28e377c37b09?q=80&w=2068)
+<!-- https://adcetportal.vercel.app/ -->
+EXCELLENCE • INNOVATION • TECHNOLOGY
 
-Most Trusted Dental Clinic in Ashta
+## Building Engineers For Tomorrow.
 
-# Your Smile,  Our Priority
+Empowering students with knowledge, innovation, research, professional skills and values to contribute meaningfully to society and build a better future.
 
-Advanced, painless & affordable dental care in Ashta, Maharashtra — delivered by MDS specialists.
+[Explore Courses](https://adcetportal.vercel.app/courses) [Apply for Admission](https://adcetportal.vercel.app/admissions)
 
-[Call Now](tel:+917350075545) [WhatsApp](https://wa.me/917350075545) [Book Appointment](https://chouguledentalclinic1.pages.dev/#appointment)
+WHY ADCET?
 
-Painless Treatment
+### A Campus Designed  For Excellence
 
-Mon–Sat: 9:30am–9pm
+- ✓ NAAC A++ Accredited Institute
+- ✓ NBA Accredited Programs
+- ✓ Student Centric Learning
+- ✓ Modern Infrastructure
+- ✓ Industry & Research Exposure
+- ✓ Strong Placement Support
 
-5.0 Google Rating
+### 1999
 
-Our Specialists
+Established
 
-R
+### 25+
 
-Dr. Rohit Chougule
+Acres Campus
 
-BDS, MDS — Orthodontics
+### 3000+
 
-P
+Students
 
-Dr. Pranagha Chougule
+### 95%+
 
-BDS, MDS — Endodontics
+Final Year Results
 
-Treatments
+EXPLORE ADCET
 
-Root Canal Treatment
+## Everything You Need in One Place
 
-Dental Implants
+Quickly access important information about academics, admissions, faculty and student services.
 
-Braces & Orthodontics
+[🏛️\\
+**About ADCET** Explore →](https://adcetportal.vercel.app/about) [🎓\\
+**Admissions** Explore →](https://adcetportal.vercel.app/admissions) [📚\\
+**Courses** Explore →](https://adcetportal.vercel.app/courses) [👨‍🏫\\
+**Faculty** Explore →](https://adcetportal.vercel.app/faculty) [📢\\
+**Notices** Explore →](https://adcetportal.vercel.app/notices) [❓\\
+**FAQ** Explore →](https://adcetportal.vercel.app/faq)
 
-Smile Designing
+ABOUT ADCET
 
-Teeth Whitening
+## Annasaheb Dange College of Engineering  and Technology, Ashta
 
-Tooth Extraction
+Empowering students through competence, confidence, commitment and compassion.
 
-Hours
+### An Institution Committed to Engineering Excellence
 
-Mon – Sat
+Annasaheb Dange College of Engineering and Technology (ADCET), Ashta is one of the prominent institutions of higher technical education in Western Maharashtra. Established in 1999, the institute has been committed to producing professionally competent engineers who can contribute meaningfully to society and nation building.
 
-9:30 AM – 2 PM
+ADCET is an Empowered Autonomous Institute affiliated to Shivaji University, Kolhapur, Maharashtra and approved by the All India Council for Technical Education (AICTE), New Delhi. The institute is accredited with NAAC A++ Grade and offers programs accredited by the National Board of Accreditation (NBA).
 
-4:30 PM – 9 PM
+The institution brings together dedicated faculty, motivated students, modern infrastructure, laboratories and strong academic practices to create an environment focused on quality education, innovation and professional development.
 
-Sunday Closed
+ADCET believes that engineering education should go beyond classroom learning. Students are encouraged to participate in projects, internships, research, experimentation, industry interaction, technical activities and community engagement.
 
-Location
+![ADCET Logo](https://adcetportal.vercel.app/adcet-logo.png)
 
-Above DCC Bank,
+### ADCET, Ashta
 
-Amruta Awati,
+An Empowered Autonomous Institute
 
-Ashta, Sangli
+**1999** Established
 
-Maharashtra 416301
+**25+** Acres Campus
 
-5.0
+**3000+** Students
 
-350+ Google Reviews
+**A++** NAAC Grade
 
-[View all →](https://www.google.com/maps/search/?api=1&query=Chougule+Multispeciality+Dental+Clinic+Ashta)
+🏫
 
-Specialists
+### A Vibrant Campus
 
-Dr. Rohit Chougule
+The ADCET campus is spread across more than 25 acres in Ashta, Sangli. The campus provides students with modern academic facilities, laboratories, playgrounds, hostel facilities, internet connectivity and an environment conducive to learning.
 
-BDS, MDS — Orthodontics
+🎓
 
-Dr. Pranagha Chougule
+### Student-Centric Learning
 
-BDS, MDS — Endodontics
+The institute focuses on student-centric learning by developing close working relationships between faculty and students. Outcome-based education, skill-oriented courses, projects and practical learning help students develop professional competence.
 
-Hours
+🔬
 
-Mon–Sat
+### Research & Innovation
 
-9:30 AM – 2 PM
+Students are encouraged to participate in original research, experimentation, micro projects, mini projects and major projects. Academic collaborations with IITs, NITs and research organizations provide additional opportunities for learning and innovation.
 
-4:30 – 9 PM
+🤝
 
-Sunday Closed
+### Industry Interaction
 
-Treatments
+Strong relationships with engineering and allied industries provide students with opportunities for internships, industrial exposure, professional training and placement preparation.
 
-Root Canal Treatment
+OUR APPROACH
 
-Dental Implants
+## Learning Beyond the Classroom
 
-Braces & Orthodontics
+At ADCET, education is designed to prepare students for real-world challenges. The institute emphasizes outcome-based education and encourages students to learn through collaboration, projects, research, experimentation and industry exposure.
 
-Smile Designing
+Students participate in micro, mini and mega projects, internships, technical activities, community engagement and research initiatives. These experiences help them develop technical knowledge as well as communication, leadership, teamwork and problem-solving abilities.
 
-Teeth Whitening
+01 **Outcome Based Education**
 
-Tooth Extraction
+Learning focused on measurable academic and professional outcomes.
 
-5.0
+02 **Project Based Learning**
 
-350+ Google Reviews
+Practical learning through real-world engineering projects and experimentation.
 
-[View all →](https://www.google.com/maps/search/?api=1&query=Chougule+Multispeciality+Dental+Clinic+Ashta)
+03 **Industry Exposure**
 
-Location
+Internships, industrial interaction and professional development opportunities.
 
-Above DCC Bank,
+04 **Research & Innovation**
 
-Ashta, Sangli
+Encouraging students to explore emerging technologies and research problems.
 
-![Chougule Dental Clinic Interior](https://lh3.googleusercontent.com/p/AF1QipOSjywzAKRfHftz9m3H9Bn0Pzc9LhRk1XFXgIWN=s1360-w1360-h1020-rw)
+OUR CORE VALUES
 
-10K+
+## The 4 C's of ADCET
 
-Happy Patients
+The institute strives to develop engineers who combine professional competence with confidence, dedication and social responsibility.
 
-Qualified
+01
 
-MDS Specialists
+### COMPETENCE
 
-About Us
+Developing strong technical knowledge, practical skills and professional capabilities.
 
-## Chougule MultispecialityDental Clinic
+02
 
-Most Trusted Dental Clinic in Ashta, Maharashtra. We deliver advanced, painless, and affordable dental care — combining modern technology with genuine compassion.
+### CONFIDENCE
 
-Painless Procedures
+Building self-belief, communication skills and the confidence to face professional challenges.
 
-Affordable Pricing
+03
 
-ISO Hygienic Standards
+### COMMITMENT
 
-Emergency Care
+Encouraging dedication towards learning, professional responsibilities and continuous improvement.
 
-### 5+ Years Experience
+04
 
-Trusted by thousands of patients across Sangli district
+### COMPASSION
 
-### Advanced Technology
+Developing socially responsible professionals who contribute positively to society.
 
-State-of-the-art digital X-ray and sterilization equipment
+OUR VISION
 
-### Compassionate Care
+👁️
 
-Gentle, patient-first approach for all age groups
+## To be a Leader in producing professionally competent engineers.
 
-0+
+OUR MISSION
 
-Happy Patients
+🎯
 
-0+
+## Committed to Excellence
 
-Successful Implants
+We, Annasaheb Dange College of Engineering & Technology, Ashta, are committed to achieve our vision by:
 
-0+
+- **M1.** Imparting effective outcome based education.
+- **M2.** Preparing students through skill-oriented courses to excel in their profession with ethical values.
+- **M3.** Promoting research to benefit society.
+- **M4.** Strengthening relationships with all stakeholders.
 
-Google Reviews
+QUALITY POLICY
 
-0+
+## Continuous Improvement
 
-Years Experience
+ADCET intends to continually enhance the performance of the institute through structured, coordinated and responsible academic and administrative practices.
 
-Expert Care
+✓
 
-## Our Services
+Functioning in a structured, organized and coordinated manner.
 
-Comprehensive dental care tailored to your every need
+✓
 
-Click any highlighted card to see treatment details
+Being conscious about responsibilities and authorities at formal and informal levels.
 
-![Root Canal Treatment](https://chouguledentalclinic1.pages.dev/root_canal.jpg)
+✓
 
-Most PopularClick for details
+Taking every possible initiative in the role assigned.
 
-### Root Canal Treatment
+WHY ADCET
 
-Advanced, painless root canal therapy using modern rotary techniques and apex locators.
+## Institutional Highlights
 
-Tap to see details
+✓
 
-Treatment Details
+An Empowered Autonomous Institute
 
-### Root Canal Treatment
+✓
 
-Approx. 60–90 min
+NAAC A++ Grade Accredited Institute
 
-- Completely painless under local anaesthesia
-- Rotary endodontics for precision & speed
-- Digital apex locator for accuracy
-- Same-day crown placement available
-- Preserves your natural tooth structure
+✓
 
-Performed by Dr. Pranagha Chougule — MDS Endodontics
+NBA Accredited Programs
 
-Book Appointment
+✓
 
-![Dental Implants](https://chouguledentalclinic1.pages.dev/dental_implant.png)
+AICTE Approved Programs
 
-Long Lasting
+✓
 
-### Dental Implants
+Modern State-of-the-Art Laboratories
 
-Permanent, natural-looking tooth replacement with titanium precision implants.
+✓
 
-Book Appointment
+Well Qualified & Experienced Faculty
 
-![Braces & Orthodontics](https://chouguledentalclinic1.pages.dev/braces.jpg)
+✓
 
-For All AgesClick for details
+Excellent Hostel Facilities
 
-### Braces & Orthodontics
+✓
 
-Metal, ceramic & clear aligner options for perfect smile alignment.
+College Bus Service
 
-Tap to see details
+✓
 
-Treatment Details
+Large Playground & Healthy Campus
 
-### Braces & Orthodontics
+✓
 
-Approx. 12–24 months
+High-Speed Internet Connectivity
 
-- Traditional metal & ceramic braces
-- Invisible clear aligners available
-- Damon self-ligating braces option
-- Retainers provided post-treatment
-- Child, teen & adult treatment plans
+✓
 
-Performed by Dr. Rohit Chougule — MDS Orthodontics
+On-Campus ATM Banking Facility
 
-Book Appointment
+✓
 
-![Teeth Cleaning & Whitening](https://chouguledentalclinic1.pages.dev/teeth_whitening.jpg)
+Modern Classrooms with CCTV Facilities
 
-Quick Results
+✓
 
-### Teeth Cleaning & Whitening
+Strong Industry & Placement Support
 
-Professional scaling, polishing and whitening for a brighter, healthier smile.
+✓
 
-Book Appointment
+Academic Results Above 95%
 
-![Tooth Extraction](https://chouguledentalclinic1.pages.dev/tooth_extraction.jpg)
+✓
 
-Pain-FreeClick for details
+Student Scholarship Support
 
-### Tooth Extraction
+✓
 
-Safe, comfortable removal procedures including wisdom tooth surgery.
+Excellent Connectivity from Sangli & Kolhapur
 
-Tap to see details
+ACADEMIC PROGRAMS
 
-Treatment Details
+## Explore Our Programs
 
-### Tooth Extraction
+Build your career with industry-relevant programs designed for the technologies of tomorrow.
 
-Approx. 20–45 min
+💻
 
-- Simple & surgical extractions
-- Atraumatic wisdom tooth removal
-- Advanced anaesthesia for zero pain
-- Post-op care & recovery guidance
-- Same-day replacement options discussed
+### Computer Science & Engineering
 
-All extractions handled with utmost care & precision
+Developing skilled professionals in computing, software development and emerging technologies.
 
-Book Appointment
+[View Program →](https://adcetportal.vercel.app/courses)
 
-![Smile Designing](https://chouguledentalclinic1.pages.dev/smile_Designing.jpg)
+🤖
 
-Transform
+### Artificial Intelligence & Data Science
 
-### Smile Designing
+Preparing students for careers in AI, machine learning, data science and intelligent systems.
 
-Cosmetic dentistry to craft your perfect dream smile with veneers and composites.
+[View Program →](https://adcetportal.vercel.app/courses)
 
-Book Appointment
+⚙️
 
-Our Team
+### Mechanical Engineering
 
-## Meet Our Doctors
+Strong foundation in design, manufacturing, automation and modern engineering practices.
 
-MDS specialists committed to your dental health and perfect smile
+[View Program →](https://adcetportal.vercel.app/courses)
 
-![Dr. Rohit Chougule](https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=800)
+🏗️
 
-Orthodontics
+### Civil Engineering
 
-### Dr. Rohit Chougule
+Creating professionals capable of designing and developing sustainable infrastructure.
 
-Dental Surgeon
+[View Program →](https://adcetportal.vercel.app/courses)
 
-BDS, MDS (Orthodontics)
+✈️
 
-Orthodontic Specialist focused on advanced teeth alignment, braces, and bite correction using latest techniques.
+### Aeronautical Engineering
 
-[Book Consultation](https://chouguledentalclinic1.pages.dev/#appointment)
+Focused education in aircraft systems, aerodynamics, aerospace design and aviation technology.
 
-![Dr. Pranagha Chougule](https://images.unsplash.com/photo-1559839734-2b71ea197ec2?q=80&w=800)
+[View Program →](https://adcetportal.vercel.app/courses)
 
-Endodontics
+⚡
 
-### Dr. Pranagha Chougule
+### Electrical Engineering
 
-Dental Surgeon
+Building expertise in electrical systems, power systems, automation and modern technologies.
 
-BDS, MDS (Endodontics)
+[View Program →](https://adcetportal.vercel.app/courses)
 
-Endodontic expert providing completely painless root canal treatments and comprehensive restorative care.
+[View All Courses](https://adcetportal.vercel.app/courses)
 
-[Book Consultation](https://chouguledentalclinic1.pages.dev/#appointment)
+IMPORTANT UPDATES
 
-Why Choose Us
+## Latest Notices & Announcements
 
-## Most Trusted Dental Clinic in Ashta
+[📄\\
+**FY B.Tech. Admission Notice 2026–27** \\
+\\
+2026–27 • View official notice\\
+\\
+→](https://adcetportal.vercel.app/notices) [📄\\
+**M.Tech Admission Information** \\
+\\
+Admission • View official notice\\
+\\
+→](https://adcetportal.vercel.app/notices) [📄\\
+**Scholarship Application Notice** \\
+\\
+Students • View official notice\\
+\\
+→](https://adcetportal.vercel.app/notices) [📄\\
+**Academic Calendar 2026–27** \\
+\\
+Academic • View official notice\\
+\\
+→](https://adcetportal.vercel.app/notices) [📄\\
+**Placement Training Schedule** \\
+\\
+Placement • View official notice\\
+\\
+→](https://adcetportal.vercel.app/notices)
 
-We combine expertise, modern technology, and heartfelt care
+[View All Notices](https://adcetportal.vercel.app/notices)
 
-2 Doctors
+ADMISSIONS 2026–27
 
-### MDS Specialists
+### Begin Your  Engineering Journey
 
-5+ years with dedicated orthodontic & endodontic experts
+Take the first step towards becoming a professionally competent engineer at ADCET.
 
-ISO Clean
+- ✓ Undergraduate Programs
+- ✓ Postgraduate Programs
+- ✓ Merit-Based Opportunities
+- ✓ Student Support
 
-### Modern Facility
+[Admission Details →](https://adcetportal.vercel.app/admissions)
 
-Digital X-ray, rotary endodontics, autoclave sterilization
+CAMPUS LIFE
 
-10K+ Patients
+## Facilities That Support Student Success
 
-### Trusted by Thousands
+A learning environment designed to support academics, innovation, recreation and personal development.
 
-10,000+ patients treated across Ashta and Sangli region
+🔬
 
-Best Value
+### Modern Laboratories
 
-### Affordable Pricing
+State-of-the-art laboratories supporting practical learning, experimentation and research.
 
-Quality dental care at the most reasonable costs in Ashta
+📚
 
-0 Pain
+### Learning Resources
 
-### Painless Treatment
+Well-equipped learning facilities designed to support academic excellence and student development.
 
-Latest anesthesia & rotary techniques for zero discomfort
+🏠
 
-Mon–Sat
+### Hostel Facility
 
-### Flexible Hours
+Comfortable hostel facilities and student support services for campus residents.
 
-Morning and evening slots — Mon to Saturday for your ease
+🚌
 
-Patient Reviews
+### College Bus Service
 
-## What Our Patients Say
+Transportation facilities connecting students with nearby cities and surrounding areas.
 
-Every review below is verified directly from Google — real patients, real experiences
+🏃
 
-3.4/ 5.0
+### Sports & Playground
 
-Overall Google Rating
+Large playground and facilities encouraging sports, fitness and extracurricular activities.
 
-20+Google Reviews
+🌐
 
-100%Five-Star Reviews
+### Internet Connectivity
 
-10K+Happy Patients
+High-speed internet connectivity supporting digital learning and academic activities.
 
-All Reviews
+CAREER EXCELLENCE
 
-Verified on Google
+## Placement Highlights
 
-No fake reviews, ever
+Strong industry relationships and career-focused training help students prepare for professional life.
 
-R
+### 2,281
 
-#### Rajesh Patil
+Students Placed
 
-2 weeks ago
+### 40 LPA
 
-"Excellent service! Dr. Rohit Chougule is highly professional and caring. The clinic is very clean and modern. My root canal treatment was completely painless. Highly recommended!"
+Highest Package
 
-Verified Google Review
+### 4 LPA
 
-via Google Maps
+Average Package
+
+### 180+
+
+Recruiting Companies
+
+Students receive support through training, industry interaction, recruitment drives and career development activities.
+
+[Contact Placement Cell →](https://adcetportal.vercel.app/contact)
+
+OUR PEOPLE
+
+## Learn From Experienced Faculty
+
+Dedicated faculty members combine academic knowledge, research and industry exposure to support student growth.
+
+👨‍🏫
+
+### Experienced Faculty
+
+Qualified and experienced educators focused on academic excellence and student development.
+
+🔬
+
+### Research & Innovation
+
+Encouraging students to explore research, experimentation and emerging technologies.
+
+🤝
+
+### Industry Interaction
+
+Connecting academic learning with practical industry requirements and professional experience.
+
+[Meet Our Faculty](https://adcetportal.vercel.app/faculty)
+
+NEED HELP?
+
+## Frequently Asked Questions
+
+Find answers to commonly asked questions about admissions, courses, facilities and placements.
+
+[View All FAQs →](https://adcetportal.vercel.app/faq)
+
+[**How can I apply for admission?** +](https://adcetportal.vercel.app/faq) [**What courses are available?** +](https://adcetportal.vercel.app/faq) [**Does ADCET provide hostel facilities?** +](https://adcetportal.vercel.app/faq) [**What are the placement opportunities?** +](https://adcetportal.vercel.app/faq)
+
+![ADCET awarded NAAC "A++" grade.](https://www.adcet.ac.in/images/approvals/naac-a++.png)
+
+ADCET awarded NAAC "A++" grade.
+
+![NBA Accredited](https://www.adcet.ac.in/images/approvals/nba.png)
+
+NBA Accredited
+
+![Approved By AICTE](https://www.adcet.ac.in/images/approvals/aicte.png)
+
+Approved By AICTE
+
+![ISO 9001:2015 Certified Institution](https://www.adcet.ac.in/images/approvals/iso-2015.png)
+
+ISO 9001:2015 Certified Institution
+
+![An Empowered Autonomous Institute](https://www.adcet.ac.in/images/approvals/autonomous.png)
+
+An Empowered Autonomous Institute
+
+OUR DESK
+
+## Message from the Leadership
+
+The vision and guidance of our founder, secretary, joint secretary and director continue to shape ADCET into a centre of excellence.
+
+[![Shri. Annasaheb Dange](https://www.adcet.ac.in/images/desk/Hon-Shri-Annasaheb-Dange.jpg)\\
+**Shri. Annasaheb Dange** Founder\\
+Read More →](https://adcetportal.vercel.app/#) [![Adv. Rajendra R. Dange](https://www.adcet.ac.in/images/desk/Adv-Rajendra-R-Dange.jpg)\\
+**Adv. Rajendra R. Dange** Secretary\\
+Read More →](https://adcetportal.vercel.app/#) [![Shri. Vishwanath R. Dange](https://www.adcet.ac.in/images/desk/Shri-Vishwanath-R-Dange-secratory.jpg)\\
+**Shri. Vishwanath R. Dange** Joint Secretary\\
+Read More →](https://adcetportal.vercel.app/#) [![Dr. Laxman Y Waghmode](https://www.adcet.ac.in/images/desk/Dr-Laxman-Y-Waghmode.jpg)\\
+**Dr. Laxman Y Waghmode** Director\\
+Read More →](https://adcetportal.vercel.app/#)
+
+### 180+
+
+Companies Visiting
+
+### 2281
+
+Total Placed
+
+### 40 LPA
+
+Highest Package
+
+### 4 LPA
+
+Average Package
+
+OUR RECRUITERS
+
+## Companies That Trust ADCET
+
+![Our Recruiters](https://www.adcet.ac.in/images/recruiters/recruiters-11.jpg)
+
+OUR ACHIEVEMENTS
+
+## Congratulations to Achievers
+
+[![Achievement](https://www.adcet.ac.in/uploads/achievements/17762297051.jpeg)](https://adcetportal.vercel.app/#)[![Achievement](https://www.adcet.ac.in/uploads/achievements/17762296851.jpeg)](https://adcetportal.vercel.app/#)[![Achievement](https://www.adcet.ac.in/uploads/achievements/17762296621.jpeg)](https://adcetportal.vercel.app/#)[![Achievement](https://www.adcet.ac.in/uploads/achievements/17762296211.jpeg)](https://adcetportal.vercel.app/#)[![Achievement](https://www.adcet.ac.in/uploads/achievements/17762296061.jpeg)](https://adcetportal.vercel.app/#)[![Achievement](https://www.adcet.ac.in/uploads/achievements/17762295541.jpeg)](https://adcetportal.vercel.app/#)
+
+OUR VIDEOS
+
+## Watch ADCET in Action
+
+YouTube
+
+RECENT ACTIVITIES
+
+## What's Happening at ADCET
+
+[![Constro 2025](https://www.adcet.ac.in/thum/index.php?src=https://www.adcet.ac.in/uploads/gallery/1770880946.jpeg&w=370&h=280)\\
+**Constro 2025**](https://adcetportal.vercel.app/#) [![ISTE-Approved Faculty Development Program (FDP) on Applications of AI in Civil Engineering](https://www.adcet.ac.in/thum/index.php?src=https://www.adcet.ac.in/uploads/gallery/1770880662.jpeg&w=370&h=280)\\
+**ISTE-Approved Faculty Development Program (FDP) on Applications of AI in Civil Engineering**](https://adcetportal.vercel.app/#) [![Civil Fighters (Faculty Cricket Match-2025)](https://www.adcet.ac.in/thum/index.php?src=https://www.adcet.ac.in/uploads/gallery/1770879761.jpeg&w=370&h=280)\\
+**Civil Fighters (Faculty Cricket Match-2025)**](https://adcetportal.vercel.app/#) [![Exhibitor - Non Destructive Testing Expo](https://www.adcet.ac.in/thum/index.php?src=https://www.adcet.ac.in/uploads/gallery/1770789418.jpg&w=370&h=280)\\
+**Exhibitor - Non Destructive Testing Expo**](https://adcetportal.vercel.app/#) [![DGCA Deputy Director Visit](https://www.adcet.ac.in/thum/index.php?src=https://www.adcet.ac.in/uploads/gallery/1770357127.jpg&w=370&h=280)\\
+**DGCA Deputy Director Visit**](https://adcetportal.vercel.app/#) [![Hands-on Training on Agri Drone Calibration](https://www.adcet.ac.in/thum/index.php?src=https://www.adcet.ac.in/uploads/gallery/1770356827.jpg&w=370&h=280)\\
+**Hands-on Training on Agri Drone Calibration**](https://adcetportal.vercel.app/#)
+
+WE ARE IN NEWS
+
+## ADCET in the Media
+
+[![In News](https://www.adcet.ac.in/uploads/gallery/1782816987.jpeg)](https://adcetportal.vercel.app/#)[![In News](https://www.adcet.ac.in/uploads/gallery/1780304807.jpeg)](https://adcetportal.vercel.app/#)[![In News](https://www.adcet.ac.in/uploads/gallery/1780304784.jpeg)](https://adcetportal.vercel.app/#)[![In News](https://www.adcet.ac.in/uploads/gallery/1778841084.jpeg)](https://adcetportal.vercel.app/#)[![In News](https://www.adcet.ac.in/uploads/gallery/1778841065.jpeg)](https://adcetportal.vercel.app/#)[![In News](https://www.adcet.ac.in/uploads/gallery/1778147817.jpeg)](https://adcetportal.vercel.app/#)[![In News](https://www.adcet.ac.in/uploads/gallery/1776919443.jpeg)](https://adcetportal.vercel.app/#)[![In News](https://www.adcet.ac.in/uploads/gallery/1773988390.jpeg)](https://adcetportal.vercel.app/#)
+
+DOWNLOADS
+
+## Important Downloads
+
+[📄Fee Approval Proposal for Academic Year 2026-2027→](https://www.adcet.ac.in/uploads/download/1762167004.pdf) [📄DSE Final Merit List for ACAP Seats 2025-26→](https://www.adcet.ac.in/uploads/download/1757659995.pdf) [📄DSE Provisional Merit List Against CAP Seats 2025-26→](https://www.adcet.ac.in/uploads/download/1757651954.pdf) [📄Schedule for DSE Admission 2025-26→](https://www.adcet.ac.in/uploads/download/1757584030.pdf) [📄FY B.Tech. Final Merit List ACAP Seats 2025-26→](https://www.adcet.ac.in/uploads/download/1757490963.pdf)
+
+START YOUR JOURNEY
+
+## Ready to Take the Next Step?
+
+Get in touch with ADCET for admissions, courses, campus information or general enquiries.
+
+[Admissions →](https://adcetportal.vercel.app/admissions) [Contact Us](https://adcetportal.vercel.app/contact)
+
+🤖 Ask ADCET AI
+
+<!-- https://adcetportal.vercel.app/about -->
+DISCOVER ADCET
+
+# About ADCET
+
+Empowering future engineers through excellence, innovation, competence and compassion.
+
+Home/ **About ADCET**
+
+ESTABLISHED **1999**
+
+Years of Academic Excellence
+
+WHO WE ARE
+
+## Building Competent Engineers for a Better Future
+
+The Annasaheb Dange College of Engineering and Technology (ADCET), Ashta is one of the iconic public institutions of higher technical education in Western Maharashtra, distinguished by its compassion to produce engineers with competence for improving the human condition and building the nation.
+
+Established in 1999, ADCET, Ashta is an Empowered Autonomous institute affiliated to Shivaji University, Kolhapur, Maharashtra and approved by AICTE, New Delhi.
+
+The institute is NAAC accredited with **“A++” Grade**, ISO 9001:2015 certified and runs programmes accredited by NBA, New Delhi.
+
+**NAAC** A++ Grade
+
+**NBA** Accredited Programs
+
+**AICTE** Approved Institute
+
+OUR JOURNEY
+
+## Education Beyond the Classroom
+
+01
+
+### Academic Excellence
+
+ADCET's campus is spread over 25 acres in the heart of the city of Ashta, Sangli, where more than 3000 undergraduate students build lifelong friendships and connections while enjoying their educational journey.
+
+02
+
+### Outcome Based Education
+
+The college focuses on outcome based education by setting a clear and unambiguous framework for curriculum planning along with clear standards for observable and measurable outcomes.
+
+03
+
+### Student Centric Learning
+
+ADCET continuously emphasizes restructuring curriculum, assessment and reporting practices while fostering close working relationships between faculty and students.
+
+THE ADCET EXPERIENCE
+
+## Learning Through Innovation & Collaboration
+
+At ADCET, Ashta, students are encouraged to learn through conversation and collaboration, micro, mini and mega projects, community and social justice engagement, internships in industry, original research and experimentation.
+
+Our cooperative relationship with IITs, NITs and research organizations enlarges academic opportunities for students and their social community.
+
+Active ties with engineering and allied industries further extend employment opportunities available at ADCET.
+
+01
+
+### Projects
+
+Micro, mini and mega projects for practical learning.
+
+02
+
+### Research
+
+Original research and experimentation opportunities.
+
+03
+
+### Industry Exposure
+
+Internships and strong connections with industries.
+
+04
+
+### Collaboration
+
+Academic cooperation with leading institutions.
+
+OUR COMMUNITY
+
+## A Diverse Community With Equal Opportunity
+
+ADCET community rich in diversity offers every member equal respect and equal opportunity for academic excellence and employment.
+
+We offer robust student scholarship support while protecting against excessive student debt because we believe quality higher education should be affordable to all.
+
+🎓
+
+### Scholarship Support
+
+Supporting deserving students in their educational journey.
+
+🏦
+
+### Education Loan Support
+
+100% support for availing educational loans through nationalized banks.
+
+🤝
+
+### Equal Opportunity
+
+A learning environment built on diversity, equality and respect.
+
+OUR CORE VALUES
+
+## The Four C's That Define ADCET
+
+We prepare the next generation with values that go beyond academics.
+
+01
+
+### Competence
+
+Developing professional knowledge and technical expertise.
+
+02
+
+### Confidence
+
+Preparing students to face challenges with self-belief.
+
+03
+
+### Commitment
+
+Encouraging dedication towards personal and social growth.
+
+04
+
+### Compassion
+
+Creating responsible engineers who care for society.
+
+VISION
+
+👁
+
+## Our Vision
+
+> “To be a Leader in producing professionally competent engineers.”
+
+MISSION
+
+## Our Mission
+
+We, Annasaheb Dange College of Engineering & Technology, Ashta, are committed to achieve our vision by:
+
+M1
+
+Imparting effective outcome based education.
+
+M2
+
+Preparing students through skill oriented courses to excel in their profession with ethical values.
+
+M3
+
+Promoting research to benefit the society.
+
+M4
+
+Strengthening relationship with all the stakeholders.
+
+EXPLORE ADCET
+
+## Everything You Need in One Place
+
+Quickly access important information about academics, admissions, faculty and student services.
+
+[🏛️\\
+**About ADCET** Explore →](https://adcetportal.vercel.app/about) [🎓\\
+**Admissions** Explore →](https://adcetportal.vercel.app/admissions) [📚\\
+**Courses** Explore →](https://adcetportal.vercel.app/courses) [👨‍🏫\\
+**Faculty** Explore →](https://adcetportal.vercel.app/faculty) [📢\\
+**Notices** Explore →](https://adcetportal.vercel.app/notices) [❓\\
+**FAQ** Explore →](https://adcetportal.vercel.app/faq)
+
+OUR COMMITMENT
+
+## Quality Policy
+
+We intend to continually enhance the performance of our institute through structured systems, responsibility and continuous improvement.
+
+✓
+
+Functioning in a structured, organized and coordinated manner.
+
+✓
+
+Being conscious about our responsibilities and authorities at formal and informal levels.
+
+✓
+
+Taking every possible initiative in the role assigned.
+
+WHY CHOOSE ADCET
+
+## Salient Features
+
+A strong academic ecosystem supported by modern infrastructure and student-focused facilities.
+
+01
+
+✓
+
+An Empowered Autonomous Institute
+
+02
+
+✓
+
+NBA Accredited Programs
+
+03
+
+✓
+
+NAAC 'A++' GRADE Institute
+
+04
+
+✓
+
+Accredited by TCS, Mumbai
+
+05
+
+✓
+
+Highest number of Faculty members in Shivaji University area
+
+06
+
+✓
+
+Largest Infrastructure facilities with modern amenities
+
+07
+
+✓
+
+Modern state-of-art laboratories
+
+08
+
+✓
+
+Final year results above 95%
+
+09
+
+✓
+
+College bus service for students
+
+10
+
+✓
+
+Placement in Reputed Companies and MNC's
+
+11
+
+✓
+
+Excellent Hostel Facility for Students
+
+12
+
+✓
+
+Well qualified & experienced faculty members
+
+13
+
+✓
+
+Huge playground, beautiful and healthy campus
+
+14
+
+✓
+
+500 Mbps leased line internet connectivity
+
+15
+
+✓
+
+On campus ATM Banking Facility
+
+16
+
+✓
+
+All Classrooms with excellent modern facilities and CCTV Cameras
+
+17
+
+✓
+
+Excellent connectivity from Islampur, Kolhapur & Sangli
+
+JOIN THE ADCET COMMUNITY
+
+## Start Your Engineering Journey With Us
+
+Explore our programs, campus opportunities and admission process.
+
+[Explore Admissions →](https://adcetportal.vercel.app/about#admissions) [View Courses](https://adcetportal.vercel.app/about#courses)
+
+🤖 Ask ADCET AI
+
+<!-- https://adcetportal.vercel.app/faculty -->
+## Computer Science & Engineering
+
+2 Faculty Members
 
 S
 
-Sneha Deshmukh
+### Dr. Suhel S. Sayyad
 
-1 month ago
+Professor & Head of Department
 
-Best dental clinic in Ashta! The staff is very friendly and the doctors are extremely skilled. Got my teeth whitening done here and the results are amazing!
+**Qualification:** B.E. (Computer Science), M.Tech. (Computer Science), Ph.D.
 
-Verified Google Review
+**Area of Expertise:** Information Security, High Performance Computing
+
+**Experience:** 16.5 Years
 
 A
 
-Amit Kulkarni
+### Dr. Arifa J. Shikalgar
 
-3 weeks ago
+Associate Professor
 
-Very happy with the dental implant treatment. Dr. Pranagha explained everything clearly and the procedure was smooth. The clinic maintains high hygiene standards.
+**Qualification:** Ph.D. (CSE)
 
-Verified Google Review
+**Area of Expertise:** Machine Learning, Computer Vision
 
-P
+**Experience:** 17 Years
 
-Priya Sharma
+## Artificial Intelligence & Data Science
 
-1 week ago
+5 Faculty Members
 
-Outstanding experience! Got braces for my daughter and the treatment has been excellent. The doctors are patient and explain every step. Affordable prices too!
+A
 
-Verified Google Review
+### Dr. Asma A. Shaikh
+
+Professor & Head of Department
+
+**Qualification:** Post Doc (CSE), Ph.D. (CSE), MCA, M.E. (Computer Engineering), AMIE
+
+**Area of Expertise:** Artificial Intelligence, Data Science, Image Processing
+
+**Experience:** 18 Years
+
+K
+
+### Dr. Krishna Kumar L.
+
+Professor
+
+**Qualification:** Ph.D. (Artificial Intelligence and IOT)
+
+**Area of Expertise:** Data Science and Data Warehousing
+
+**Experience:** 16 Years
 
 S
 
-Sanjay Jadhav
+### Miss. Sonali Satish Malame
 
-2 months ago
+Assistant Professor
 
-Professional and reliable dental clinic. The equipment is modern and the treatment is painless. I have been visiting for regular checkups and always satisfied.
+**Qualification:** M.Tech (CSE)
 
-Verified Google Review
+**Area of Expertise:** Web Development, Machine Learning, Artificial Intelligence
 
-RRajesh PatilSSneha DeshmukhAAmit KulkarniPPriya SharmaSSanjay JadhavKKavita ShindeVVishal PawarMMeera KaleRRahul DesaiAAnita JoshiSSuresh PatilDDeepa KadamMMahesh ShindePPooja KulkarniVVijay JadhavSSavita PawarAAnil MoreMManisha DeshmukhSSachin KaleSSunita PatilRRajesh PatilSSneha DeshmukhAAmit KulkarniPPriya SharmaSSanjay JadhavKKavita ShindeVVishal PawarMMeera KaleRRahul DesaiAAnita JoshiSSuresh PatilDDeepa KadamMMahesh ShindePPooja KulkarniVVijay JadhavSSavita PawarAAnil MoreMManisha DeshmukhSSachin KaleSSunita Patil
+**Experience:** 7.9 Years
 
-[View All Reviews on Google](https://www.google.com/maps/search/?api=1&query=Chougule+Multispeciality+Dental+Clinic+Ashta)
+P
 
-Our Clinic
+### Mrs. Prajakta Satyavijay Dabade
 
-## Clinic Gallery
+Assistant Professor
 
-Explore our modern infrastructure and hygienic environment
+**Qualification:** M.Tech (CSE)
 
-![Doctor Consultation Area](https://chouguledentalclinic1.pages.dev/Doctor_chair.jpg)
+**Area of Expertise:** Machine Learning, Artificial Intelligence
 
-Doctor Consultation Area
+**Experience:** 4 Years
 
-![Advanced Dental Treatment Setup](https://chouguledentalclinic1.pages.dev/Dental_chair2.jpg)
+G
 
-Advanced Dental Treatment Setup
+### Miss. Gayatri Suresh Sutar
 
-![Modern Dental Equipment](https://chouguledentalclinic1.pages.dev/Dental_chair.jpg)
+Assistant Professor
 
-Modern Dental Equipment
+**Qualification:** M.Tech (CSE)
 
-![Reception & Welcome Area](https://chouguledentalclinic1.pages.dev/clinic_reception.jpg)
+**Area of Expertise:** DBMS, C, Java, Computer Networks, IOT
 
-Reception & Welcome Area
+**Experience:** 10 Years
 
-![Clinic Interior & Hygiene](https://chouguledentalclinic1.pages.dev/clinic_indoor.jpg)
+## Robotics & Artificial Intelligence
 
-Clinic Interior & Hygiene
+5 Faculty Members
 
-![Premium Treatment Room](https://chouguledentalclinic1.pages.dev/Treatment_room.jpg)
+S
 
-Premium Treatment Room
+### Dr. Sunita Sunil Shinde
 
-Professional Excellence
+Professor & Head of Department
 
-## Certifications & Qualifications
+**Qualification:** B.E., M.E., Ph.D.
 
-Recognized credentials and advanced training from MUHS, Nashik
+**Area of Expertise:** Wireless Communication and IOT
 
-![Master of Dental Surgery (MDS)](https://chouguledentalclinic1.pages.dev/mds-certificate.jpg)
+**Experience:** 25 Years
 
-Click to View
+M
 
-Certified 2021
+### Prof. Makarand Madhav Kolekar
 
-### Master of Dental Surgery (MDS)
+Assistant Professor
 
-Dr. Rohit Chougule
+**Qualification:** M.Tech
 
-Orthodontics and Dentofacial Orthopaedics – MUHS, Nashik
+**Area of Expertise:** Manufacturing Engineering, AI & Data Science
 
-![Master of Dental Surgery (MDS)](https://chouguledentalclinic1.pages.dev/MDS_Degree.jpeg)
+**Experience:** 13 Years
 
-Click to View
+Y
 
-Certified 2021
+### Mr. Yogesh V. Koli
 
-### Master of Dental Surgery (MDS)
+Assistant Professor
 
-Dr. Pranagha Chougule
+**Qualification:** M.E. (Electronics)
 
-Endodontics – Specialized training in advanced root canal procedures
+**Area of Expertise:** Industrial Robotics & Automation, Embedded System
 
-Easy Booking
+**Experience:** 12 Years
 
-## Book Your Appointment
+S
 
-Schedule your visit for a healthy and confident smile
+### Mrs. Shital D. Kolekar
 
-### Working Hours
+Assistant Professor
 
-Mon–Sat: 9:30 AM – 2 PM
+**Qualification:** M.E. (CSE), Ph.D. (Pursuing)
 
-Mon–Sat: 4:30 PM – 9 PM
+**Area of Expertise:** Cloud Computing, IOT
 
-Sunday: Closed
+**Experience:** 7.5 Years
 
-### Call Us
+R
 
-+91 73500 75545
+### Mrs. Rutuja Suraj Pawar
 
-### All Services
+Assistant Professor
 
-Walk-in & Appointments
+**Qualification:** B.E. (Electrical), M.Tech (Electrical Power System)
 
-Emergency Available
+**Area of Expertise:** Electric Power System
 
-Full Name
+**Experience:** 6 Years
 
-Phone Number
+## Basic Science
 
-ServiceSelect a serviceRoot Canal TreatmentDental ImplantsBraces & OrthodonticsTeeth Cleaning & WhiteningTooth ExtractionSmile DesigningGeneral CheckupOther
+2 Faculty Members
 
-Appointment Date
+S
 
-Time SlotSelect time slot09:30 AM10:00 AM10:30 AM11:00 AM11:30 AM12:00 PM12:30 PM01:00 PM01:30 PM04:30 PM05:00 PM05:30 PM06:00 PM06:30 PM07:00 PM07:30 PM08:00 PM08:30 PM
+### Dr. Santosh Shivaji Desai
 
-Message (Optional)
+Associate Professor & Head
 
-Book Appointment Now
+**Qualification:** M.Sc. (Mathematics), Ph.D.
 
-Visit Us
+**Area of Expertise:** Mathematics, Fuzzy Choice Theory
 
-## Contact & Location
+**Experience:** 16 Years
 
-Get in touch or visit us at our clinic in Ashta, Sangli
+V
 
-Clinic Address
+### Mrs. Vijayalaxmi Maruti Vairat
 
-First Floor, above DCC Bank (Jilha Madhyawarti Bank),
+Assistant Professor
 
-near Chandu Wadapav, Amruta Awati,
+**Qualification:** M.Sc., M.Phil.
 
-Ashta, Sangli, Maharashtra – 416301
+**Area of Expertise:** Chemistry
 
-Phone Number
+**Experience:** 28 Years
 
-[+91 73500 75545](tel:+917350075545)
+## Aeronautical Engineering
 
-Email Address
+4 Faculty Members
 
-[chouguledentalclinic5@gmail.com](mailto:chouguledentalclinic5@gmail.com)
+B
 
-Working Hours
+### Mr. Basithrahman A
 
-Monday – Saturday9:30 AM – 2 PM
+Assistant Professor
 
-Evening4:30 PM – 9 PM
+**Qualification:** M.E. (Aeronautical Engineering)
 
-SundayClosed
+**Area of Expertise:** Composite Materials and Structures, Aircraft Structures, Finite Element Methods
 
-[Get Directions on Google Maps](https://maps.app.goo.gl/inbBThmYUqL7f3RL7)
+**Experience:** 7 Years
 
-[Chat on WhatsApp](https://wa.me/917350075545?text=Hello%20Doctor%2C%20I%20would%20like%20to%20book%20an%20appointment.%0A%0AName%3A%0APreferred%20Date%3A%0APreferred%20Time%3A%0AService%3A) Chat on WhatsApp
+K
 
-[Call Now](tel:+917350075545) Call Now
+### Mr. Karthik Pullela
+
+Assistant Professor
+
+**Qualification:** M.Tech
+
+**Area of Expertise:** Aerospace Propulsion, Computational Fluid Dynamics, Aircraft Design
+
+**Experience:** 1 Year
+
+M
+
+### Prof. Mohammed Hashim Y
+
+Assistant Professor
+
+**Qualification:** M.E.
+
+**Area of Expertise:** UAV and Flight Dynamics
+
+**Experience:** 11 Years
+
+A
+
+### Prof. Arun Nema
+
+Assistant Professor
+
+**Qualification:** M.Tech
+
+**Area of Expertise:** Aerodynamics, Computational Fluid Dynamics, Fluid Mechanics
+
+**Experience:** 14 Years
+
+## Experienced Faculty
+
+ADCET is supported by dedicated faculty members who contribute to teaching, research, innovation, student development and industry collaboration across various disciplines.
+
+🤖 Ask ADCET AI
+
+<!-- https://adcetportal.vercel.app/courses -->
+## Program Offered: B.Tech
+
+Undergraduate Engineering Programs
+
+01
+
+### Mechanical Engineering
+
+**Intake:** 120**Started:** 1999
+
+02
+
+### Computer Science & Engineering
+
+**Intake:** 180**Started:** 2001
+
+03
+
+### Electrical Engineering
+
+**Intake:** 120**Started:** 2004
+
+04
+
+### Civil Engineering
+
+**Intake:** 120**Started:** 2010
+
+05
+
+### Aeronautical Engineering
+
+**Intake:** 60**Started:** 2013
+
+06
+
+### Food Technology
+
+**Intake:** 30**Started:** 2019
+
+07
+
+### Artificial Intelligence (AI) and Data Science
+
+**Intake:** 120**Started:** 2021
+
+08
+
+### Computer Science & Engineering (Internet of Things and Cyber Security Including Block Chain Technology)
+
+**Intake:** 60**Started:** 2021
+
+09
+
+### Robotics And Artificial Intelligence
+
+**Intake:** 60**Started:** 2025
+
+10
+
+### Electronics and Telecommunication Engineering
+
+**Intake:** 60**Started:** 2026
+
+## Other Undergraduate Programs
+
+Management and Computer Application Programs
+
+01
+
+### Bachelor of Business Administration (BBA)
+
+**Intake:** 200**Started:** 2024
+
+02
+
+### Bachelor of Computer Application (BCA)
+
+**Intake:** 60**Started:** 2024
+
+## Program Offered: M.Tech (PG)
+
+Postgraduate Engineering Programs
+
+01
+
+### Mechanical Engineering Design
+
+**Intake:** 12**Started:** 2025
+
+02
+
+### Computer Science And Engineering
+
+**Intake:** 12**Started:** 2025
+
+03
+
+### Electrical Power System
+
+**Intake:** 12**Started:** 2025
+
+04
+
+### Civil Engineering (Computer Aided Structural Engineering)
+
+**Intake:** 12**Started:** 2025
+
+## Admission Information
+
+Admission to the various programs is subject to the eligibility criteria and admission procedure prescribed by the concerned authorities. Students are advised to refer to the official admission information for the latest details.
+
+🤖 Ask ADCET AI
+
+<!-- https://adcetportal.vercel.app/notices -->
+15Aug2026
+
+## Admissions Open for Academic Year 2026–27
+
+ADCET invites applications for B.Tech and M.Tech programs. Interested candidates may apply through the admission portal.
+
+View Details
+
+10Aug2026
+
+## ADCET Hackathon 2026 – Season 3
+
+Sustainable Development Goals (SDGs) – Vikasit Bharat-2047. Registration open for all eligible students.
+
+View Details
+
+02Aug2026
+
+## AICTE Scholarship / Fellowship Schemes
+
+Students are advised to apply for the AICTE Scholarship and Fellowship Schemes through the official portal.
+
+View Details
+
+25Jul2026
+
+## Exam Schedule – Odd Semester 2026–27
+
+The examination schedule for the odd semester has been published. Students should check the notice board.
+
+View Details
+
+18Jul2026
+
+## ADCET Alumni Database Update Form
+
+All alumni are requested to update their details using the official alumni database update form.
+
+View Details
+
+## Stay Updated
+
+For the latest circulars, admission information, examination schedules and academic updates, please keep visiting the Notices section. For any clarification, contact the respective department or the admission cell.
+
+🤖 Ask ADCET AI
+
+<!-- https://adcetportal.vercel.app/admissions -->
+Admissions are open for the academic year 2026-27.
+
+## Admission Information
+
+Annasaheb Dange College of Engineering and Technology (ADCET), Ashta offers admission to various undergraduate and postgraduate engineering programs.
+
+Students seeking admission are advised to check the eligibility criteria, admission schedule, required documents, and application procedure before applying.
+
+### Undergraduate Admissions
+
+Admissions are available for various B.Tech engineering programs through the applicable admission process.
+
+### Eligibility
+
+Candidates must satisfy the prescribed academic and entrance examination requirements for the selected program.
+
+### Required Documents
+
+Students should keep their academic certificates, identity documents, photographs, and other required admission documents ready.
+
+🤖 Ask ADCET AI
+
+<!-- https://adcetportal.vercel.app/contact -->
+## Annasaheb Dange College of Engineering and Technology
+
+Sant Dnyaneshwar Shikshan Sanstha's Annasaheb Dange College of Engineering and Technology (ADCET), Ashta.
+
+📍
+
+### Address
+
+Annasaheb Dange College of Engineering and Technology (ADCET),
+
+Ashta, Dist. Sangli,
+
+Maharashtra - 416 301
+
+📞
+
+### Phone
+
+[+91-8600600700](tel:+918600600700)
+
+✉️
+
+### Email
+
+[director@adcet.in](mailto:director@adcet.in)
+
+🌐
+
+### Website
+
+[www.adcet.ac.in](https://adcetportal.vercel.app/contact#)
+
+## Get In Touch
+
+For any inquiries, admission-related information, or other assistance, please contact Annasaheb Dange College of Engineering and Technology, Ashta using the details provided above.
+
+🤖 Ask ADCET AI
+
+<!-- https://adcetportal.vercel.app/faq -->
+**Q.** What is ADCET?+
+
+**Q.** Where is ADCET located?+
+
+**Q.** What courses are offered at ADCET?+
+
+**Q.** How can I apply for admission?+
+
+**Q.** Is ADCET an autonomous institute?+
+
+**Q.** Is ADCET approved by AICTE?+
+
+**Q.** Is ADCET accredited by NAAC?+
+
+**Q.** Are hostel facilities available?+
+
+**Q.** Does ADCET provide placement assistance?+
+
+**Q.** How can I contact ADCET?+
+
+**Q.** Where can I find the latest college notices?+
+
+**Q.** Where can I find information about faculty members?+
+
+## Still Have Questions?
+
+If you cannot find the information you are looking for, please contact ADCET through the Contact Us section.
+
+🤖 Ask ADCET AI

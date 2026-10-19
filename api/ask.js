@@ -3,11 +3,16 @@ import { fileURLToPath } from "url";
 import path from "path";
 
 // ============================================================
-// CHOUGULE DENTAL RAG BOT
-// Ported from the Chougule-RAG project (rag_chatbot.py +
-// retriever.py) to a Vercel serverless function.
+// ADCET PORTAL - SIMPLE RAG BOT
+//
+// Built the same way as the Chougule-RAG dental bot:
+//   embed query -> hybrid retrieval (semantic + keyword + category)
+//   -> grounded prompt -> LLM answer
+// but with ADCET knowledge, Gemini embeddings/generation, and
+// no AKLM system.
+//
 // - Embeddings: gemini-embedding-001 (3072 dimensions)
-// - Generation: Gemini flash models (Ollama replaced)
+// - Generation: Gemini flash models
 // ============================================================
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -23,8 +28,10 @@ const EMBED_MODEL = "models/gemini-embedding-001";
 const GEN_MODELS = ["gemini-3.6-flash", "gemini-3.5-flash-lite"];
 const GEN_TIMEOUT_MS = 20000;
 
-// Normalized document embeddings (same as rag_chatbot.py's
-// embedding_matrix / np.linalg.norm(..., axis=1)).
+// ============================================================
+// VECTOR MATH
+// ============================================================
+
 function dot(a, b) {
   let s = 0;
   for (let i = 0; i < a.length; i++) s += a[i] * b[i];
@@ -40,13 +47,29 @@ function normalize(v) {
   return v.map((x) => x / n);
 }
 
+// Derive a section title from a chunk: first markdown heading
+// in the opening lines, otherwise the page path from the URL.
+function deriveTitle(text, sourceUrl) {
+  const head = text.slice(0, 800);
+  const m = head.match(/^\s*#{1,6}\s+(.+)$/m);
+  if (m) return m[1].replace(/[*_`]/g, "").trim();
+  try {
+    const p = new URL(sourceUrl).pathname;
+    if (p && p !== "/") return p.replace(/^\//, "");
+  } catch {
+    // ignore bad URLs
+  }
+  return "";
+}
+
 const docVectors = vectors.map((v) => ({
   ...v,
+  title: deriveTitle(v.text || "", v.source_url || ""),
   normalized: normalize(v.embedding),
 }));
 
 // ============================================================
-// KEYWORD SCORE (rag_chatbot.py)
+// KEYWORD SCORE (same as rag_chatbot.py)
 // ============================================================
 
 function words(text) {
@@ -68,72 +91,143 @@ function keywordScore(query, content) {
 }
 
 // ============================================================
-// CATEGORY DETECTION (rag_chatbot.py)
+// CATEGORY DETECTION
+// (same pattern as the dental bot: query hits a category and
+// the chunk's title/heading or page marks that category -> 1.5)
 // ============================================================
 
-const CATEGORY_KEYWORDS = {
-  working: [
-    "working hours",
-    "opening hours",
-    "clinic hours",
-    "timing",
-    "timings",
-    "open",
-    "close",
-  ],
-  contact: ["contact", "phone", "mobile", "email", "call"],
-  address: ["address", "location", "where", "located"],
-  doctor: ["doctor", "orthodontist", "dentist", "specialist"],
-  service: [
-    "treatment",
-    "service",
-    "procedure",
-    "root canal",
-    "implant",
-    "braces",
-    "extraction",
-    "whitening",
-  ],
+const CATEGORIES = {
+  admission: {
+    keywords: [
+      "admission",
+      "admissions",
+      "apply",
+      "application",
+      "eligibility",
+      "cap",
+      "cet",
+      "entrance",
+    ],
+    url: "admission",
+    headings: ["admission", "apply"],
+  },
+  courses: {
+    keywords: [
+      "course",
+      "courses",
+      "branch",
+      "branches",
+      "program",
+      "programs",
+      "department",
+      "b.tech",
+      "m.tech",
+      "syllabus",
+    ],
+    url: "course",
+    headings: ["program", "course", "branch", "department"],
+  },
+  faculty: {
+    keywords: ["faculty", "professor", "prof", "hod", "teacher", "staff"],
+    url: "faculty",
+    headings: ["faculty", "professor", "head of department"],
+  },
+  placement: {
+    keywords: [
+      "placement",
+      "placements",
+      "recruiter",
+      "recruiters",
+      "package",
+      "job",
+      "jobs",
+      "campus drive",
+      "training",
+    ],
+    url: "placement",
+    headings: ["placement", "recruiter", "training"],
+  },
+  contact: {
+    keywords: ["contact", "phone", "mobile", "email", "call", "number"],
+    url: "contact",
+    headings: ["contact", "phone", "email"],
+  },
+  address: {
+    keywords: ["address", "location", "located", "where", "directions", "reach"],
+    url: "contact",
+    headings: ["address", "location", "reach us"],
+  },
+  facilities: {
+    keywords: [
+      "hostel",
+      "bus",
+      "library",
+      "lab",
+      "laboratory",
+      "facilities",
+      "facility",
+      "gym",
+      "canteen",
+      "sports",
+    ],
+    url: "facilit",
+    headings: ["facilit", "hostel", "library", "transport", "campus"],
+  },
+  accreditation: {
+    keywords: [
+      "naac",
+      "nba",
+      "aicte",
+      "autonomous",
+      "accredited",
+      "accreditation",
+      "affiliated",
+      "affiliation",
+      "approved",
+      "approval",
+      "ranking",
+    ],
+    url: "about",
+    headings: ["naac", "aicte", "autonomous", "accredit", "approv", "affiliat"],
+  },
 };
 
-const CATEGORY_TITLES = {
-  working: "working hours",
-  contact: "contact information",
-  address: "clinic address",
-  doctor: "doctors",
-  service: "services",
-};
-
-function categoryScore(query, title) {
+function categoryScore(query, title, sourceUrl) {
   const q = query.toLowerCase();
-  const t = title.toLowerCase();
+  const url = (sourceUrl || "").toLowerCase();
+  const t = (title || "").toLowerCase();
 
-  for (const category of Object.keys(CATEGORY_KEYWORDS)) {
-    if (CATEGORY_KEYWORDS[category].some((word) => q.includes(word))) {
-      if (t.includes(CATEGORY_TITLES[category])) return 1.5;
-    }
+  for (const cat of Object.values(CATEGORIES)) {
+    if (!cat.keywords.some((k) => q.includes(k))) continue;
+
+    const urlMatch = cat.url && url.includes(cat.url);
+    const headingMatch = t && cat.headings.some((h) => t.includes(h));
+
+    if (urlMatch || headingMatch) return 1.5;
   }
 
   return 0.0;
 }
 
 // ============================================================
-// HYBRID RETRIEVAL (rag_chatbot.py retrieve())
+// HYBRID RETRIEVAL
 // score = semantic * 0.45 + keyword * 0.25 + category * 0.30
+// (same weights as the dental bot)
 // ============================================================
 
-function retrieve(query, queryNormalized, topK = 3) {
+function retrieve(query, queryNormalized, topK = 5) {
   const results = docVectors.map((v) => {
     const semantic = dot(queryNormalized, v.normalized);
-    const keyword = keywordScore(query, v.content);
-    const category = categoryScore(query, v.title);
+    const keyword = keywordScore(query, v.text);
+    const category = categoryScore(query, v.title, v.source_url);
 
     const score = semantic * 0.45 + keyword * 0.25 + category * 0.3;
 
     return {
-      chunk_id: v.chunk_id,
+      chunk_id: v.id,
       title: v.title,
-      content: v.content,
+      source_url: v.source_url,
+      text: v.text,
       score,
       semantic_score: semantic,
       keyword_score: keyword,
@@ -147,11 +241,13 @@ function retrieve(query, queryNormalized, topK = 3) {
 }
 
 // ============================================================
-// ANSWER GENERATION (rag_chatbot.py generate_answer prompt,
-// Gemini replaces Ollama llama3.2)
+// ANSWER GENERATION
+// (same simple grounded-prompt style as the dental bot,
+// written for ADCET - no AKLM)
 // ============================================================
 
-const ANSWER_PROMPT = `You are the AI assistant for Chougule Multispeciality Dental Clinic.
+const ANSWER_PROMPT = `You are the AI assistant for ADCET - Annasaheb Dange
+College of Engineering and Technology, Ashta.
 
 Answer the user's question using ONLY the information provided
 in the context below.
@@ -159,13 +255,13 @@ in the context below.
 IMPORTANT RULES:
 
 1. Do not invent information.
-2. Do not guess prices, timings, treatments or contact details.
+2. Do not guess fees, dates, cutoffs, timings or contact details.
 3. If the answer is not available in the context, clearly say:
-   "I don't have that information in the clinic knowledge base."
+   "I don't have that information in the college knowledge base."
 4. Give a direct and concise answer.
-5. For medical questions, provide general information from the
-   knowledge base and recommend consulting the dentist when
-   appropriate.
+5. For admission-related questions, answer from the context and
+   suggest checking the official college website (www.adcet.ac.in)
+   or contacting the college office when appropriate.
 6. Do not mention "chunks", "embeddings", "retrieval", or RAG.
 
 CONTEXT:
@@ -234,6 +330,8 @@ async function generateWithFallback(apiKey, prompt) {
 // HANDLER
 // ============================================================
 
+export { retrieve, docVectors };
+
 export default async function handler(req, res) {
   if (req.method !== "POST") {
     return res.status(405).json({ answer: "Method not allowed", sources: [] });
@@ -258,13 +356,12 @@ export default async function handler(req, res) {
     });
     const q = normalize(embedData.embedding.values);
 
-    // Hybrid retrieval (top 3, same as the original bot)
-    const top = retrieve(question, q, 3);
+    // Hybrid retrieval (top 5 across the small page-section chunks)
+    const top = retrieve(question, q, 5);
 
-    // Build context exactly like rag_chatbot.py:
-    // "[{title}]\n{content}" joined with blank lines
+    // Context like the original bot: "[title]\ncontent"
     const context = top
-      .map((r) => `[${r.title}]\n${r.content}`)
+      .map((r) => `[${r.title || r.source_url}]\n${r.text}`)
       .join("\n\n");
 
     const prompt = ANSWER_PROMPT.replace("{context}", context).replace(
@@ -278,7 +375,7 @@ export default async function handler(req, res) {
       answer,
       sources: top.map((r) => ({
         chunk_id: r.chunk_id,
-        title: r.title,
+        source_url: r.source_url,
         score: r.score,
       })),
     });
