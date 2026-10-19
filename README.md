@@ -1,8 +1,7 @@
 # ADCET Portal — Simple AI Assistant (RAG)
 
 The **ADCET portal** (React + Vite) with a **simple RAG chatbot** as its AI
-assistant — no AKLM system, just the pattern used in the Chougule-RAG dental
-bot: scrape → chunk → embed → hybrid retrieve → grounded answer.
+assistant: scrape → chunk → embed → hybrid retrieve → grounded answer.
 
 | Stage | How it works |
 | --- | --- |
@@ -56,7 +55,7 @@ node scripts/debug-scores.mjs "your query"   # inspect retrieval rankings
 
 ## Deploy (Vercel)
 
-1. This repo is on GitHub: `Sushantshinde2027/adcetportal-ai`
+1. This repo is on GitHub: `Sushantshinde2027/adcetportal`
 2. Import it in Vercel — the Vite build + `api/` serverless functions are
    detected automatically (`vercel.json` handles the SPA rewrites).
 3. In **Project Settings → Environment Variables** add:
