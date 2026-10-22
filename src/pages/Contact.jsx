@@ -34,7 +34,7 @@ function Contact() {
             <div className="contact-icon">📞</div>
             <h3>Phone</h3>
             <p>
-              <a href="tel:+918600600700">+91-8600600700</a>
+              <a href="tel:+918600600700">+91-8600600701</a>
             </p>
           </div>
 
